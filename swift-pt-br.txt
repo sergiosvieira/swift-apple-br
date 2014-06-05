@@ -1,0 +1,9 @@
+Seja Bemvindo ao Swift
+
+Sobre o Swift
+
+Swift é uma nova linguagem de programação para o desenvolvimento de aplicativos iOS e OS X que aproveita o melhor do C e do Objective-C, sem as restrições de compatibilidade do C. Swift adota um padrão de programação segura e adiciona características modernas para fazer a programação mais fácil, mais flexível e mais divertida. Swift foi idealizado do zero, apoiado pelos maduros e amados frameworks Cocoa e Cocoa Touch, é uma oportunidade de reimaginar como o desenvolvimento de software funciona.
+
+Swift vem sendo desenvolvido a anos. A Apple criou uma base sólida para o Swift ao melhorar seu atual compilador, seu debugger e a infraestrutura do framework. Nós simplificamos o gerenciamento de memória com o ARC (Automatic Reference Counting). Nossa pilha de framework, construída em cima de uma base sólida (Foundation e Cocoa), foi modernizada e padronizada. Objetive-C passou a suportar blocos, coleções de literais, e módulos, permitindo a adoção de framework com tecnologias de linguagem modernas, sem maiores complicações. Graças a essa base, podemos intruduzir uma nova linguagem para o futuro do desenvolvimento de software da Apple.
+
+Swift é familiar aos desenvolvedores Objective-C. Ele adota a legibilidade 
